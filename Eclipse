@@ -1,7 +1,7 @@
 pcall(function()
 	game.StarterGui:SetCore("SendNotification", {
 		Title = 'Eclipse Client';
-		Text = 'Premium';
+		Text = 'Premium Edition';
 		Duration = 15;
 	})
 	if not game.Players.LocalPlayer:IsInGroup(14128437) then
